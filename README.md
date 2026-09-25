@@ -6,7 +6,7 @@
 - link-site: http://www.qualityltda.com.br/
 
 ## Imagens
-![Captura de tela em 2024-08-17 15-53-41](https://github.com/user-attachments/assets/f9add2f7-b892-467f-bee5-d687e879b692)
+<img width="1917" height="903" alt="Site-Quality" src="https://github.com/user-attachments/assets/a9c13455-6df9-4cb2-ba97-4fb9e9d0b54b" />
 ![Captura de tela em 2024-08-19 17-45-52](https://github.com/user-attachments/assets/7de415b5-9ec7-4ad3-be7c-bb2e4fd2e235)
 ![Captura de tela em 2024-08-19 18-01-45](https://github.com/user-attachments/assets/5182cbce-a7d5-4e20-b724-8f6d5aa650ab)
 ![Captura de tela em 2024-08-19 18-02-52](https://github.com/user-attachments/assets/9d2d688f-4587-4889-a6a0-569958c0c0bd)
