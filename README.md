@@ -7,11 +7,11 @@
 
 ## Imagens
 <img width="1917" height="903" alt="Site-Quality" src="https://github.com/user-attachments/assets/a9c13455-6df9-4cb2-ba97-4fb9e9d0b54b" />
-![Captura de tela em 2024-08-19 17-45-52](https://github.com/user-attachments/assets/7de415b5-9ec7-4ad3-be7c-bb2e4fd2e235)
-![Captura de tela em 2024-08-19 18-01-45](https://github.com/user-attachments/assets/5182cbce-a7d5-4e20-b724-8f6d5aa650ab)
-![Captura de tela em 2024-08-19 18-02-52](https://github.com/user-attachments/assets/9d2d688f-4587-4889-a6a0-569958c0c0bd)
-![Captura de tela em 2024-08-19 18-03-42](https://github.com/user-attachments/assets/d23b61e9-d4e6-4394-a8bc-34efbc5d8254)
-![Captura de tela em 2024-08-19 18-04-15](https://github.com/user-attachments/assets/35c3a87c-2463-49f0-84ab-e4e207ab0356)
+<img width="1887" height="882" alt="Tela 2" src="https://github.com/user-attachments/assets/d8a93333-3d4b-4bf8-803a-7feb5549313e" />
+<img width="1870" height="836" alt="Tela 3" src="https://github.com/user-attachments/assets/187cbd51-36d8-468a-a857-cd40a433df43" />
+<img width="1891" height="865" alt="Tela 4" src="https://github.com/user-attachments/assets/5de6ee92-9cfa-4de3-ba7c-f14a263e8f71" />
+<img width="1875" height="807" alt="Tela 5" src="https://github.com/user-attachments/assets/c1cef710-cf6f-4ab8-961d-c2f40065ca78" />
+<img width="1862" height="875" alt="Tela 6" src="https://github.com/user-attachments/assets/558e6189-c912-438f-8f2f-de33127a0932" />
 
 ## Autor
 - Gustavo Calderaro
